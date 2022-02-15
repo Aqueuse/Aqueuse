@@ -6,7 +6,7 @@ I'm an accomplish carftwoman, both in software development and more traditionnal
 
 You can start making my dream come true by [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V5AEGCL)
 
-*(it means Watery because my pseudonyme was llo before, which sound like water in french language but llo is to short for some websites)
+* it means Watery because my pseudonyme was llo before, which sound like water in french language but llo is to short for some websites
 
 Hey but .... wait ! ...
 
