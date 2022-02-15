@@ -8,4 +8,4 @@ You can start making my dream come true by [![ko-fi](https://ko-fi.com/img/githu
 
 *(it means Watery because my pseudonyme was llo before, which sound like water in french language but llo is to short for some websites)
 
-![mishmanners snake gif](https://github.com/Aqueuse/Aqueuse/blob/output/github-contribution-grid-snake.svg)
+![onoz my repositories](https://github.com/Aqueuse/Aqueuse/blob/output/github-contribution-grid-snake.svg)
