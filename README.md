@@ -11,3 +11,8 @@ You can start making my dream come true by: [![ko-fi](https://ko-fi.com/img/gith
 But, wait... what's happened to my repositories !? 😱
 
 ![repo](https://github.com/Aqueuse/Aqueuse/blob/output/github-contribution-grid-snake.svg)
+
+<hr>
+<h1>✨ Suis-moi sur:</h1>
+<br>
+<a href="https://www.youtube.com/channel/UCKb5CKFHEihr1b7mLJuOs9g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" align="center"></a>
