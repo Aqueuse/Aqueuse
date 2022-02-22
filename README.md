@@ -1,6 +1,6 @@
 Hello, I'm **Aqueuse**  \*
 
-Actually, I'm working on being a master of **Java**, with a second release of ![Neko](https://github.com/Aqueuse/NekoV2), my kitty desktop app and by making some web oriented projets in Spring that will start soon.
+Actually, I'm working on being a master of **Java**, with a second release of  <img src="https://github.com/Aqueuse/NekoV2/blob/master/icon.png" width="32" height="32" />, my kitty desktop app and by making some web oriented projets in Spring that will start soon.
 
 I'm an accomplished carftwoman, both in software development and more traditionnal technologies 🛠 <br> <center>and I love eating a cheesecake with a good coffee ❤🍰☕</center>
 
