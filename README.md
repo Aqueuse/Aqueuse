@@ -4,7 +4,7 @@ Actually, I'm working on being a master of **Java**, with a second release of  <
 
 I'm an accomplished carftwoman, both in software development and more traditionnal technologies 🛠 <br> <center>and I love eating a cheesecake with a good coffee ❤🍰☕</center>
 
-You can start making my dream come true by [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V5AEGCL)
+You can start making my dream come true by [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/logo_white_stroke.png?)](https://ko-fi.com/V7V5AEGCL)
 
 My CV (Curriculum Vitae) is available here : http://ours-agile.com/CV/
 
