@@ -1,6 +1,12 @@
 Hello, I'm **Aqueuse**  \*
 
-Actually, I'm working on being a master of **CSharp**, with the release of Banana Man, the Space Monkeys, My first big game, made despite Unity and other cool projects that brings me joy.
+Actually, I'm working on being a master of **CSharp**, with the release of [**Banana Man, the Space Monkeys**](https://ours-agile.itch.io/banana-man-the-space-monkeys), My first big game, made with Unity. I'm also working on other cool projects that brings me joy. Some are in the repositories [here](https://github.com/Aqueuse?tab=repositories).
+
+<p align="center">
+  <a href="https://ours-agile.itch.io/banana-man-the-space-monkeys">
+    <img alt="banana man" height="200px" src="https://raw.githubusercontent.com/Aqueuse/Aqueuse.github.io/master/projects/bananaMan/static/images/capsule1_with_title.png"/>
+  </a>
+</p>
 
 I'm an accomplished carftwoman, both in software development and more traditionnal technologies 🛠 <br> <center>and I love eating a cheesecake with a good coffee ❤🍰☕</center>
 
