@@ -4,13 +4,13 @@ Actually, I'm working on being a master of **CSharp**, with the release of [**Ba
 
 <p align="center">
   <a href="https://ours-agile.itch.io/banana-man-the-space-monkeys">
-    <img alt="banana man" height="200px" src="https://raw.githubusercontent.com/Aqueuse/Aqueuse.github.io/master/projects/bananaMan/static/images/capsule1_with_title.png"/>
+    <img alt="banana man" height="200px" src="https://raw.githubusercontent.com/Aqueuse/Aqueuse/main/capsule1_with_title.png"/>
   </a>
 </p>
 
 I'm an accomplished carftwoman, both in software development and more traditionnal technologies 🛠 <br> <center>and I love eating a cheesecake with a good coffee ❤🍰☕</center>
 
-[<img alt="kofi" height="40px" src="https://raw.githubusercontent.com/Aqueuse/Aqueuse.github.io/master/ressources/logo_white_stroke.png"/>](https://ko-fi.com/aqueuse)
+[<img alt="kofi" height="40px" src="https://raw.githubusercontent.com/Aqueuse/Aqueuse/main/logo_white_stroke.png"/>](https://ko-fi.com/aqueuse)
 
 My CV (Curriculum Vitae) is available here : http://ours-agile.com/CV/
 
