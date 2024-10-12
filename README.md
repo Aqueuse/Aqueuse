@@ -1,6 +1,6 @@
 Hello, I'm **Aqueuse**  \*
 
-Actually, I'm working on being a master of **CSharp**, with the release of [**Banana Man, the Space Monkeys**](https://ours-agile.itch.io/banana-man-the-space-monkeys), My first big game, made with Unity. I'm also working on other cool projects that brings me joy. Some are in the repositories [here](https://github.com/Aqueuse?tab=repositories).
+Actually, I'm working on mastering **CSharp**, with the release of [**Banana Man, the Space Monkeys**](https://ours-agile.itch.io/banana-man-the-space-monkeys), My first big game, made with Unity. I'm also working on other cool projects that bring me joy. Some are in the repositories [here](https://github.com/Aqueuse?tab=repositories).
 
 <p align="center">
   <a href="https://ours-agile.itch.io/banana-man-the-space-monkeys">
@@ -8,7 +8,7 @@ Actually, I'm working on being a master of **CSharp**, with the release of [**Ba
   </a>
 </p>
 
-I'm an accomplished craftwoman, both in software development and more traditionnal technologies 🛠 <br> <center>and I love eating a cheesecake with a good coffee ❤🍰☕</center>
+I'm an accomplished craftswoman, both in software development and more traditional technologies 🛠 <br> <center>and I love eating a cheesecake with a good coffee ❤🍰☕</center>
 
 [<img alt="kofi" height="40px" src="https://raw.githubusercontent.com/Aqueuse/Aqueuse/main/logo_white_stroke.png"/>](https://ko-fi.com/aqueuse)
 
