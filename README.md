@@ -8,7 +8,7 @@ Actually, I'm working on being a master of **CSharp**, with the release of [**Ba
   </a>
 </p>
 
-I'm an accomplished carftwoman, both in software development and more traditionnal technologies 🛠 <br> <center>and I love eating a cheesecake with a good coffee ❤🍰☕</center>
+I'm an accomplished craftwoman, both in software development and more traditionnal technologies 🛠 <br> <center>and I love eating a cheesecake with a good coffee ❤🍰☕</center>
 
 [<img alt="kofi" height="40px" src="https://raw.githubusercontent.com/Aqueuse/Aqueuse/main/logo_white_stroke.png"/>](https://ko-fi.com/aqueuse)
 
