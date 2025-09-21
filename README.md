@@ -12,6 +12,6 @@ I'm an accomplished craftswoman, both in software development and more tradition
 
 [<img alt="kofi" height="40px" src="https://raw.githubusercontent.com/Aqueuse/Aqueuse/main/logo_white_stroke.png"/>](https://ko-fi.com/aqueuse)
 
-My CV (Curriculum Vitae) is available here : http://ours-agile.com/CV/
+I also have a cool website if you want to do business with me : http://ours-agile.com/ :) 
 
 \* It means Watery because my pseudonym was "*llo*" before, which sound like water in french language but "*llo*" is too short for some websites
